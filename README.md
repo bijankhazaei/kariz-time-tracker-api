@@ -1,3 +1,6 @@
-# kariz-time-tracker-api
-Backend of Time Tracker 
-written by GoLang over GoFiber
+# KARIZ time tracker
+
+
+Go, Fiber, GORM, Postgres
+
+
