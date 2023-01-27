@@ -1,6 +1,7 @@
 package controllers
 
 import (
+	"github.com/gofiber/fiber/v2"
 	"time"
 
 	"github.com/bijankhazaei/kariz-time-tracker-api/app/models"

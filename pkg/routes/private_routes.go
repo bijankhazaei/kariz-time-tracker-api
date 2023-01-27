@@ -3,6 +3,7 @@ package routes
 import (
 	"github.com/bijankhazaei/kariz-time-tracker-api/app/controllers"
 	"github.com/bijankhazaei/kariz-time-tracker-api/pkg/middleware"
+	"github.com/gofiber/fiber/v2"
 )
 
 // PrivateRoutes func for describe group of private routes.

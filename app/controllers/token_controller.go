@@ -2,6 +2,7 @@ package controllers
 
 import (
 	"github.com/bijankhazaei/kariz-time-tracker-api/pkg/utils"
+	"github.com/gofiber/fiber/v2"
 )
 
 // GetNewAccessToken method for create a new access token.

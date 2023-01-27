@@ -2,6 +2,7 @@ package routes
 
 import (
 	"github.com/bijankhazaei/kariz-time-tracker-api/app/controllers"
+	"github.com/gofiber/fiber/v2"
 )
 
 // PublicRoutes func for describe group of public routes.
